@@ -1,11 +1,3 @@
-{
-  "name": "WindSpeed Telemetry Rule",
-  "state": "SUSPENDED",
-  "weight": 0,
-  "pluginToken": "kafka-spark-streaming-sample",
-  "filters": [
-    {
-      "configuration": {
-        "messageTypes": [
-          "POST_TELEMETRY"
-        ]
+ng directory clean
+
+Administrator@adsk-srv MINGW64 ~/learngit (master)
